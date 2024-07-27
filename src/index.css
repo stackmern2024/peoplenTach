@@ -1,0 +1,9 @@
+#banner{
+    background-image: url('/bg2_1699781792031.jfif');
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
